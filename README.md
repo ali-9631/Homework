@@ -19,4 +19,5 @@ This website is a small poroject that demonstrates my learnings:
 * Session2: [29-08-2026]
   
 ------------------
-Week3: Codecademy, Learn CSS (6hours) [01-09-2026 to ]
+Week3:
+* [Codecademy, Learn CSS](https://www.codecademy.com/learn/learn-css)  [01-09-2026 to ]
