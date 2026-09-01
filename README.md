@@ -5,11 +5,11 @@ I hope you enjoyed the website.
 Learning & Progress:
 -------------------
 Week1: 
-* HYK, core program, week1    [17-08-2026 to 23-08-2026]
+* [HYK, core program, week1](https://hub.hackyourfuture.nl/core-program-week-1)  [17-08-2026 to 23-08-2026]
 
 -------------------
 week2:
-* Codecademy, Learn HTML (7hours)    [24-08-2026 to 27-08-2026]
+* [Codecademy, Learn HTML](https://www.codecademy.com/enrolled/courses/learn-html)  [24-08-2026 to 27-08-2026]
 
 -------------------    
 This website is a small poroject that demonstrates my learnings:
