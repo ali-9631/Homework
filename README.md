@@ -1,27 +1,15 @@
 # LOTR
 
-Hello
+Hello,
 
-I hope you enjoy the website:
+I hope you enjoy the [LOTR website](https://ali-9631.github.io/LOTR/index.html).
 
-https://ali-9631.github.io/LOTR/index.html
+It is a small project that demonstrates my learning progress.
 
-## Learning & Progress:
-Start: 17-08-2026
+* Started: 17-08-2026
 
-Week1: 
-* [HYK, core program, week1](https://hub.hackyourfuture.nl/core-program-week-1)
+* Week1: [HYK, core program, week1](https://hub.hackyourfuture.nl/core-program-week-1)
 
--------------------
-Week2:
-* [Codecademy, Learn HTML](https://www.codecademy.com/enrolled/courses/learn-html)
+* Week2: [Codecademy, Learn HTML](https://www.codecademy.com/enrolled/courses/learn-html)
     
-This website is a small poroject that demonstrates my learnings:
-
-* Session1: [28-08-2026]
-  
-* Session2: [29-08-2026]
-  
-------------------
-Week3:
-* [Codecademy, Learn CSS](https://www.codecademy.com/learn/learn-css)
+* Week3: [Codecademy, Learn CSS](https://www.codecademy.com/learn/learn-css)
