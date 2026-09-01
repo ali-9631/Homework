@@ -12,7 +12,7 @@ Week1:
 * [HYK, core program, week1](https://hub.hackyourfuture.nl/core-program-week-1)
 
 -------------------
-week2:
+Week2:
 * [Codecademy, Learn HTML](https://www.codecademy.com/enrolled/courses/learn-html)
 
 -------------------    
@@ -24,4 +24,4 @@ This website is a small poroject that demonstrates my learnings:
   
 ------------------
 Week3:
-* [Codecademy, Learn CSS](https://www.codecademy.com/learn/learn-css)  [01-09-2026 to ]
+* [Codecademy, Learn CSS](https://www.codecademy.com/learn/learn-css)
