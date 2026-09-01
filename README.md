@@ -20,6 +20,3 @@ This website is a small poroject that demonstrates my learnings:
   
 ------------------
 Week3: Codecademy, Learn CSS (6hours) [01-09-2026 to ]
-
------------------
-Week4:
