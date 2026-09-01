@@ -1,17 +1,19 @@
 Hello!
 
-I hope you enjoyed the website
+I hope you enjoy the website:
 
 https://ali-9631.github.io/LOTR/index.html
 
 Learning & Progress:
 -------------------
+Start: 17-08-2026
+
 Week1: 
-* [HYK, core program, week1](https://hub.hackyourfuture.nl/core-program-week-1)  [17-08-2026 to 23-08-2026]
+* [HYK, core program, week1](https://hub.hackyourfuture.nl/core-program-week-1)
 
 -------------------
 week2:
-* [Codecademy, Learn HTML](https://www.codecademy.com/enrolled/courses/learn-html)  [24-08-2026 to 27-08-2026]
+* [Codecademy, Learn HTML](https://www.codecademy.com/enrolled/courses/learn-html)
 
 -------------------    
 This website is a small poroject that demonstrates my learnings:
