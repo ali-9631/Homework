@@ -1,11 +1,12 @@
-Hello!
+# LOTR
+
+Hello
 
 I hope you enjoy the website:
 
 https://ali-9631.github.io/LOTR/index.html
 
-Learning & Progress:
--------------------
+## Learning & Progress:
 Start: 17-08-2026
 
 Week1: 
@@ -14,8 +15,7 @@ Week1:
 -------------------
 Week2:
 * [Codecademy, Learn HTML](https://www.codecademy.com/enrolled/courses/learn-html)
-
--------------------    
+    
 This website is a small poroject that demonstrates my learnings:
 
 * Session1: [28-08-2026]
