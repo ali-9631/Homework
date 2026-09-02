@@ -13,3 +13,5 @@ It is a small project that demonstrates my learning progress.
 * Week2: [Codecademy, HTML](https://www.codecademy.com/enrolled/courses/learn-html)
     
 * Week3: [Codecademy, CSS](https://www.codecademy.com/learn/learn-css)
+
+Coecademy, JavaScript: Fundamentals
