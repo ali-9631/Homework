@@ -1,8 +1,9 @@
 body {
-  background: #000;
+  background: #0D0B08;
   color: #D4C19C;
   padding: 25px;
   font-family: cursive;
+  text-align: center;
 }
 
 h1 {
@@ -86,3 +87,13 @@ input[type="submit"] {
     color: #000000;
     cursor: pointer;
 }
+
+table {
+    margin: auto;
+    text-align: center;
+}
+
+td:first-child {
+    padding-right: 20px;
+}
+
