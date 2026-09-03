@@ -107,3 +107,28 @@ nav a {
  .font {
   font-family: "La Guapita", cursive;
  }
+
+.caption {
+    margin: 0;
+    padding: 5px;
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 14px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #d8c69a;
+    color: black;
+    opacity: 0.8;
+}
+
+.image {
+    position: relative;
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Fellowship.JPG/500px-Fellowship.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+
