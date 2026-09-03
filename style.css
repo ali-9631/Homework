@@ -1,6 +1,79 @@
 body {
   background: #000;
-  color: #fff;
+  color: #D4C19C;
   padding: 25px;
   font-family: cursive;
+}
+
+h1 {
+    color: #C9A227;
+}
+
+h2 {
+    color: #B89B5E;
+}
+
+h4 {
+  color: #A98F55;
+}
+
+a {
+    color: #8FAF8F;
+}
+
+a:hover {
+    color: #C9A227;
+}
+
+#lotrInk {
+    color: #B7A36A;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #A98F55;
+}
+
+input[type="range"] {
+    accent-color: #C9A227;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    accent-color: #C9A227;
+}
+
+option {
+    color: #D4C19C;
+    background-color: #000000;
+}
+
+option:checked {
+    color: #C9A227;
+}
+
+input[type="text"],
+input[name="username"],
+input[name="pw"],
+select,
+option {
+    color: #C9A227;
+    background-color: #000000;
+}
+
+input[type="number"],
+datalist,
+textarea {
+    background-color: #000000;
+}
+
+input[list],
+datalist {
+    background-color: #000000;
+}
+
+input[type="submit"] {
+    background-color: #C9A227;
+    color: #000000;
+    cursor: pointer;
 }
