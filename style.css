@@ -21,12 +21,24 @@ a {
     color: #8FAF8F;
 }
 
+a:visited {
+    color: #8FAF8F;
+}
+
 a:hover {
     color: #C9A227;
 }
 
 #lotrInk {
     color: #B7A36A;
+}
+
+#lotrInk:visited {
+    color: #B7A36A;
+}
+
+a#lotrInk:hover {
+    color: #C9A227;
 }
 
 hr {
