@@ -37,7 +37,7 @@ a:hover {
     color: #B7A36A;
 }
 
-a#lotrInk:hover {
+#lotrInk:hover {
     color: #C9A227;
 }
 
@@ -53,11 +53,6 @@ input[type="range"] {
 input[type="radio"],
 input[type="checkbox"] {
     accent-color: #C9A227;
-}
-
-option {
-    color: #D4C19C;
-    background-color: #000000;
 }
 
 option:checked {
@@ -76,11 +71,13 @@ option {
 input[type="number"],
 datalist,
 textarea {
+    color: #C9A227;
     background-color: #000000;
 }
 
 input[list],
 datalist {
+    color: #C9A227;
     background-color: #000000;
 }
 
