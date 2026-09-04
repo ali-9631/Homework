@@ -10,8 +10,7 @@ It is a small project that demonstrates my learning progress.
 
 * Week1: [HYF, core program, week1](https://hub.hackyourfuture.nl/core-program-week-1)
 
-* Week2: [Codecademy, JavaScript: Fundamentals](https://www.codecademy.com/enrolled/courses/learn-javascript-fundamentals) & [Codecademy, HTML](https://www.codecademy.com/enrolled/courses/learn-html)
-    
-* Week3: [Codecademy, CSS](https://www.codecademy.com/learn/learn-css)
+* Week2: [HYF, core program, week2](https://hub.hackyourfuture.nl/core-program-week-2) & [Codecademy, HTML](https://www.codecademy.com/enrolled/courses/learn-html)
 
-HYF, core program, week 2
+* Week3: [Codecademy, JavaScript: Fundamentals](https://www.codecademy.com/enrolled/courses/learn-javascript-fundamentals) & [Codecademy, CSS](https://www.codecademy.com/learn/learn-css)
+
